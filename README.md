@@ -6,7 +6,9 @@ Code Requirements
 Platform: Python>=3.6, MATLAB 2019B
 Python Packages needed: math, numpy>=1.19.5, scipy>=1.4.1, scikit-learn>=0.20.3, GUDHI 3.0.0
 
-1. Details about each step
+Details about each step
+
+1. Distance matrix
 
 Before the representation, the distance matrix based on Hi-C data is got through HiC_TDA.py (https://github.com/Kingsford-Group/hictda).
 
