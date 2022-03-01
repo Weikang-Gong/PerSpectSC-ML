@@ -15,10 +15,8 @@ Before the representation, the distance matrix based on Hi-C data is got through
 **Step 2:** Persistent Spectral simplicial complex(PerSpectSC) representation and Feature generation
 
 For each chromosome, the distance matrix is used to construct the simplicial complexes to generate the Hodge Laplacians.
-
 Chromosome_Hodge_Laplacian_L0.py is used to compute the eigenvalues of a 0-dimensional Laplacian matrix.
 Chromosome_Hodge_Laplacian_L1.py is used to compute the eigenvalues of a 1-dimensional Laplacian matrix.
-
 Persistent_Attributes_Structural_Classification.m is used for chromosomal descriptors generation.
 
 **Step 3:** t-SNE-assisted k-means for classification of different cell types
