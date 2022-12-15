@@ -27,4 +27,4 @@ Persistent_Attributes_Structural_Classification.m is used for chromosomal descri
 Persistent_Attributes_Structural_Classification.m is used for the classification of different cell types.
 
 ## Help
-For any questions, please contact us by weikanggong@emails.bjut.edu.cn.
+For any questions, please contact us by wkgongwork@gmail.com.
